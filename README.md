@@ -1,4 +1,8 @@
 ### Hi there 👋
+Welcome to my big big chanle!!!!!
+It is never to late to learn coding!!!!!
+
+Github can help us learn each other and maybe we would code together in someday!!! 
 
 <!--
 **Qiu-IT/Qiu-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
