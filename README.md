@@ -11,9 +11,16 @@ Just some profile about me: man 39+, speaking CN (first language), graduated fro
 - freeCodeCamp (Frontend Certificated (html/css/JS))
 
 ### Skill 🔭
+- Jquery.js Bootstrap.js 3D.js LayUI.js
+- React.js Vue.js
+- Node.js 
+- PHP in basic 
+- Python in basic
+- Java in Basic
 
 
 ### Project ✨
+- 
 
 <!--
 **Qiu-IT/Qiu-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
