@@ -6,7 +6,7 @@ Github can help us learn each other and maybe we would code together in someday!
 ### About me ⚡
 Just some profile about me: man 39+, speaking CN (first language), graduated from Germany Uni, working on energy industry branch, three years (yes beginning of COVID-19💥) ago, I planned my career for what I love in my life journey. Bingo, it names coding. Although during my last job there was also some PHP work, it is too simple and not every day, it couldn't make me feel I was coding. 
 
-### Graduation
+### Graduation 🌱
 - Diplom degree (Bio-Technology) at Germany Uni
 - freeCodeCamp (Frontend Certificated (html/css/JS))
 
