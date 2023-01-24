@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Friends 👋
 Welcome to my big big chanel!!!!! <br>
 It is never to late to learn coding!!!!!<br>
 Github can help us learn each other and maybe we would code together in someday!!! 
@@ -11,12 +11,14 @@ Just some profile about me: man 39+, speaking CN (first language), graduated fro
 - freeCodeCamp (Frontend Certificated (html/css/JS))
 
 ### Skill 🔭
-- Jquery.js Bootstrap.js 3D.js LayUI.js
-- React.js Vue.js
+- Jquery.js/ Bootstrap.js/ 3D.js/ LayUI.js
+- React.js/ Vue.js
 - Node.js 
 - PHP in basic 
+<!--
 - Python in basic
 - Java in Basic
+-->
 
 
 ### Project ✨
