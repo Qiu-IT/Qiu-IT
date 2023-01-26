@@ -9,6 +9,7 @@ Just some profile about me: man 39+, speaking CN (first language), graduated fro
 ### Graduation 🌱
 - Diplom degree (Bio-Technology) at Germany Uni
 - freeCodeCamp (Frontend Certificated (html/css/JS))
+- Junior Leetcoder
 
 ### Skill 🔭
 - Jquery.js/ Bootstrap.js/ 3D.js/ LayUI.js
