@@ -22,8 +22,12 @@ Just some profile about me: man 39+, speaking CN (first language), graduated fro
 -->
 
 
-### Project ✨
-- 
+### Reference ✨
+- Demo Projects of Javasscript30 in codepen (DrumKit/.......)
+- freeCodeCmap Test Projects 4 (Calculator/Timer/MD Viewer......)
+- LeetCode over 50 Algorithm questions solved (Array/Strring/Math/Tree/linkedList/...)
+> Algorithm uploaded here in Github.
+
 
 <!--
 **Qiu-IT/Qiu-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
