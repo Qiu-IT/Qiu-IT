@@ -23,10 +23,10 @@ Just some profile about me: man 39+, speaking CN (first language), graduated fro
 
 
 ### Reference ✨
-- Demo Projects of Javasscript30 in codepen (DrumKit/.......)
+- Demo Projects of Javasscript30 in codepen or to Android Apps (DrumKit/clock/.......)
 - freeCodeCmap Test Projects 4 (Calculator/Timer/MD Viewer......)
 - LeetCode over 50 Algorithm questions solved (Array/Strring/Math/Tree/linkedList/...)
-> Algorithm uploaded here in Github.
+  > Algorithm uploaded here in Github.
 
 
 <!--
