@@ -1,6 +1,6 @@
 ### Hi Friends 👋
 Welcome to my big big chanel!!!!! <br>
-It is never to late to learn coding!!!!!<br>
+It is never too late to learn coding!!!!!<br>
 Github can help us learn each other and maybe we would code together in someday!!! 
 
 ### About me ⚡
