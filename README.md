@@ -15,7 +15,9 @@ Just some profile about me: man 39+, speaking CN (first language), graduated fro
 - Jquery.js/ Bootstrap.js/ 3D.js/ LayUI.js
 - React.js/ Vue.js
 - Node.js 
-- PHP in basic 
+- JS in Algorithms 
+- Python3 basic in Algorithms 
+- PHP basic in Algorithms 
 <!--
 - Python in basic
 - Java in Basic
@@ -25,7 +27,9 @@ Just some profile about me: man 39+, speaking CN (first language), graduated fro
 ### Reference ✨
 - Demo Projects of Javasscript30 in codepen or to Android Apps (DrumKit/clock/.......)
 - freeCodeCmap Test Projects 4 (Calculator/Timer/MD Viewer......)
-- LeetCode over 50 Algorithm cases solved (Array/Strring/Math/Tree/linkedList/...)
+- LeetCode over 50 Algorithm cases in JS solved (Array/Strring/Math/Tree/linkedList/...)
+- LeetCode over 10 Algorithm cases in Python3 under JS Algorithm process
+- LeetCode over 10 Algorithm cases in PHP under JS Algorithm process
   > Algorithm uploaded here in Github.
 
 
