@@ -27,10 +27,9 @@ Just some profile about me: man 39+, speaking CN (first language), graduated fro
 ### Reference ✨
 - Demo Projects of Javasscript30 in codepen or to Android Apps (DrumKit/clock/.......)
 - freeCodeCmap Test Projects 4 (Calculator/Timer/MD Viewer......)
-- LeetCode over 50 Algorithm cases in JS solved (Array/Strring/Math/Tree/linkedList/...)
-- LeetCode over 10 Algorithm cases in Python3 under JS Algorithm process
-- LeetCode over 10 Algorithm cases in PHP under JS Algorithm process
-  > Algorithm uploaded here in Github.
+- LeetCode over 60 Algorithm cases in JS solved (Array/Strring/Math/Tree/linkedList/...)/over 10 Algorithm cases in PY3/over over 10 Algorithm cases in PHP
+- contributor (rank 52) of Doosc for leetcode solution project. Also member of Doosc.
+  
 
 
 <!--
