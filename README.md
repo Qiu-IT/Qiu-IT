@@ -1,3 +1,5 @@
+[![Qiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qiu-IT)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi Friends 👋
 Welcome to my big big chanel!!!!! <br>
 It is never too late to learn coding!!!!!<br>
