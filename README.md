@@ -1,3 +1,5 @@
+[![Qiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qiu-IT&hide=stars,issues&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
+
 ### Hi Friends 👋
 Welcome to my big big chanel!!!!! <br>
 It is never too late to learn coding!!!!!<br>
@@ -25,8 +27,6 @@ Just some profile about me: man 39+, speaking CN (first language), graduated fro
 - freeCodeCmap Test Projects 4 (Calculator/Timer/MD Viewer......)
 - LeetCode over 70 Algorithm cases in JS/PHP/PY3 solved (Array/Strring/Math/HashTable/linkedList/...)
 - contributor (rank 43) of Doosc for leetcode solution project. Also member of Doosc.
-
-[![Qiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qiu-IT&hide=stars,issues&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qiu-IT&hide=css,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
