@@ -28,9 +28,9 @@ Just some profile about me: man 39+, speaking CN (first language), graduated fro
 - LeetCode over 70 Algorithm cases in JS/PHP/PY3 solved (Array/Strring/Math/HashTable/linkedList/...)
 - contributor (rank 43) of Doosc for leetcode solution project. Also member of Doosc.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qiu-IT&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qiu-IT&layout=compact&hide=css,html)
 <!--
-(https://github.com/anuraghazra/github-readme-stats) &hide=css,html
+(https://github.com/anuraghazra/github-readme-stats) 
 -->
 
 <!--
