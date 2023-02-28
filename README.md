@@ -28,6 +28,8 @@ Just some profile about me: man 39+, speaking CN (first language), graduated fro
 
 [![Qiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qiu-IT&hide=stars,issues&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 ![Qiu's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Qiu-IT&show_icons=true&count_private=true&theme=gotham)
 
