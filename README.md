@@ -23,7 +23,7 @@ Just some profile about me: man 39+, speaking CN (first language), graduated fro
 ### Reference ✨
 - Demo Projects of Javasscript30 in codepen or to Android Apps (DrumKit/clock/.......)
 - freeCodeCmap Test Projects 4 (Calculator/Timer/MD Viewer......)
-- LeetCode over 70 Algorithm cases in JS/PHP/PY3 solved (Array/Strring/Math/Tree/linkedList/...)
+- LeetCode over 70 Algorithm cases in JS/PHP/PY3 solved (Array/Strring/Math/HashTable/linkedList/...)
 - contributor (rank 43) of Doosc for leetcode solution project. Also member of Doosc.
 
 [![Qiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qiu-IT)](https://github.com/anuraghazra/github-readme-stats)
