@@ -1,5 +1,3 @@
-[![Qiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qiu-IT)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Hi Friends 👋
 Welcome to my big big chanel!!!!! <br>
 It is never too late to learn coding!!!!!<br>
@@ -14,25 +12,22 @@ Just some profile about me: man 39+, speaking CN (first language), graduated fro
 - Junior Leetcoder
 
 ### Skill 🔭
-- Jquery.js/ Bootstrap.js/ 3D.js/ LayUI.js
-- React.js/ Vue.js
-- Node.js 
-- JS in Algorithms 
-- Python3 basic in Algorithms 
-- PHP basic in Algorithms 
+- Jquery.js/ Bootstrap.js/ 3D.js/ LayUI.js/ React.js/ Vue.js
+- Node.js and JS in Algorithms
+- Python3/PHP basic in Algorithms 
 <!--
 - Python in basic
 - Java in Basic
 -->
 
-
 ### Reference ✨
 - Demo Projects of Javasscript30 in codepen or to Android Apps (DrumKit/clock/.......)
 - freeCodeCmap Test Projects 4 (Calculator/Timer/MD Viewer......)
-- LeetCode over 60 Algorithm cases in JS solved (Array/Strring/Math/Tree/linkedList/...)/over 10 Algorithm cases in PY3/over over 10 Algorithm cases in PHP
-- contributor (rank 52) of Doosc for leetcode solution project. Also member of Doosc.
-  
+- LeetCode over 70 Algorithm cases in JS/PHP/PY3 solved (Array/Strring/Math/Tree/linkedList/...)
+- contributor (rank 43) of Doosc for leetcode solution project. Also member of Doosc.
 
+[![Qiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qiu-IT)](https://github.com/anuraghazra/github-readme-stats)
+  
 
 <!--
 **Qiu-IT/Qiu-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
