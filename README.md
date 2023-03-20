@@ -14,7 +14,7 @@ Just some profile about me: tireless middle-aged man, speaking CN (first languag
 - Junior Leetcoder(JS/PHP/Python3)
 
 ### Skill 🔨
-- Jquery.js/ Bootstrap.js/ 3D.js/ LayUI.js/ React.js/ Vue.js
+- Jquery.js/ Bootstrap.js/ 3D.js/ <!--LayUI.js/ React.js/ Vue.js-->
 - Node.js and JS in Algorithms
 - Python3/PHP basic in Algorithms 
 <!--
@@ -25,7 +25,7 @@ Just some profile about me: tireless middle-aged man, speaking CN (first languag
 ### Reference ✨🏅
 - Demo Projects of Javasscript30 in codepen or to Android Apps (DrumKit/clock/.......)
 - freeCodeCmap Test Projects 4 (Calculator/Timer/MD Viewer......)
-- LeetCode over 80 Algorithm cases in JS/PHP/PY3 solved (Array/Strring/Math/HashTable/linkedList/...)
+- LeetCode over 90 Algorithm cases in JS/PHP/PY3 solved (Array/Strring/Math/HashTable/linkedList/...)
 - contributor (rank 43) of Doosc for leetcode solution project. Also member of Doosc.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qiu-IT&layout=compact&hide=css,html)
