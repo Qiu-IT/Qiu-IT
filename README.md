@@ -25,7 +25,7 @@ Just some profile about me: tireless middle-aged man, speaking CN (first languag
 ### Reference ✨🏅
 - Demo Projects of Javasscript30 in codepen or to Android Apps (DrumKit/clock/.......)
 - freeCodeCmap Test Projects 4 (Calculator/Timer/MD Viewer......)
-- LeetCode over 90 Algorithm cases in JS/PHP/PY3 solved (Array/Strring/Math/HashTable/linkedList/...)
+- LeetCode over 100 Algorithm cases in JS/PHP/PY3 solved (Array/Strring/Math/HashTable/linkedList/...)
 - contributor (rank 43) of Doosc for leetcode solution project. Also member of Doosc.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qiu-IT&layout=compact&hide=css,html)
