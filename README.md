@@ -1,4 +1,4 @@
-[![Qiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qiu-IT&hide=stars,issues&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
+[![Qiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qiu-IT&hide=stars&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
 
 ### Hi Friends 👋
 Welcome to my big big chanel!!!!! <br>
