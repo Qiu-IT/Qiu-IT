@@ -3,7 +3,7 @@
 ### Hi Friends 👋
 Welcome to me!!!!! <br>
 It is never too late to learn coding!!!!!<br>
-Github can help us learn each other and maybe we would code together in someday!!! If you like my channel, thanks for your ⭐staring⭐ in advance.✨😉 **BE A Database Engineer with NoCode Technique**
+Github can help us learn each other and maybe we would code together in someday!!! If you like my channel, thanks for your ⭐staring⭐ in advance.✨😉 **BE A Database Engineer**
 
 ### About me 👨‍🎓
 Graduated from Germany Uni, working on energy industry branch, during Covid-19, I planned my career for what I love in my life journey. Bingo, it names coding. Although during my last job there was also some PHP work, it is too simple and not every day, it couldn't make me feel I was coding. 
@@ -24,7 +24,6 @@ Graduated from Germany Uni, working on energy industry branch, during Covid-19, 
 - JS with Jquery 
 - PHP basic in Algorithms
 
--->
 
 ### Reference ✨🏅
 - some Demo Projects of Javasscript30 in codepen or to Android Apps (DrumKit/clock/.......)
@@ -35,8 +34,9 @@ Graduated from Germany Uni, working on energy industry branch, during Covid-19, 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qiu-IT&layout=compact&hide=css,html)
 <!--
 (https://github.com/anuraghazra/github-readme-stats) 
--->
 
+
+-->
 <!--
 ![Qiu's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Qiu-IT&show_icons=true&count_private=true&theme=gotham)
 
