@@ -10,24 +10,49 @@ Graduated from Germany Uni, working on energy industry branch, during Covid-19, 
 
 ### Graduation 📚
 - Bio-Technology at Germany Uni
+--------certification----------
 - freeCodeCamp (Frontend Certificated (html/css/JS))
-- Google Automation 
-- Google Data Analysis I
+- Google IT Automation 
+- Google Data Analysis I <!-- II -->
 - Computer Science by Codecademy
+<!--
+- Data Base by Codecademy
+- Business Analysis by Codecademy
+- Google Business Intelligent
+- Google IT Support
+- Google Cybersecurity
+- Intro to software Engineering/ Intro. to Computer Architecture/Intro. to Operation System by Uni Peking
+- Unix Bash
+- Statistic with python by uni
+- Data Scinece DataCamp/Codecademy
+- Cloud Amazon
+- Full Stack by Codecademy
+- Django by Uni Michigan
+- Google Appsheet
+- Math x 2
+-->
 
 ### Language 📕
 - Python3
 - Javascript 
 - Bash
 - SQL
+<!--
+- Java
+- Perl
+- Rstudio
+- c++
+-->
 
 ### Skill 🔨
 - scripting
 - data analysis
 <!--
-- wordpress
 - web scraping
+- Linux && Amazon Cloud
 - cybersecurty
+- networking
+- wordpress
 - mongodb
 - book keeping
 -->
