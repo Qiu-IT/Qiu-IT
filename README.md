@@ -24,7 +24,7 @@ Graduated from Germany Uni, working on energy industry branch, during Covid-19, 
 ### Skill 🔨
 - scripting
 - data analysis
--->
+<!--
 - wordpress
 - web scraping
 - cybersecurty
@@ -41,9 +41,9 @@ Graduated from Germany Uni, working on energy industry branch, during Covid-19, 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qiu-IT&layout=compact&hide=css,html)
 <!--
 (https://github.com/anuraghazra/github-readme-stats) 
-
-
 -->
+
+
 <!--
 ![Qiu's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Qiu-IT&show_icons=true&count_private=true&theme=gotham)
 
