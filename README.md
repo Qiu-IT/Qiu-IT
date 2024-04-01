@@ -11,24 +11,31 @@ Graduated from Germany Uni, working on energy industry branch, during Covid-19, 
 ### Graduation 📚
 - Bio-Technology at Germany Uni
 - freeCodeCamp (Frontend Certificated (html/css/JS))
-- Meta Database
-- Google Data Analysis
-- Junior Leetcoder(JS/PHP/Python3/Mysql)
-- Keep going
+- Google Automation 
+- Google Data Analysis I
+- Computer Science by Codecademy
+
+### Language 📕
+- Python3
+- Javascript 
+- Bash
+- SQL
 
 ### Skill 🔨
-- Database sql
-- Rstudio
-- Python3 with Flask (Nmpy in learning)
-- Appsheet
-- JS with Jquery 
-- PHP basic in Algorithms
-
+- scripting
+- data analysis
+-->
+- wordpress
+- web scraping
+- cybersecurty
+- mongodb
+- book keeping
+-->
 
 ### Reference ✨🏅
 - some Demo Projects of Javasscript30 in codepen or to Android Apps (DrumKit/clock/.......)
 - freeCodeCmap Test Projects 4 (Calculator/Timer/MD Viewer......)
-- LeetCode over 210 Algorithm cases in JS/PHP/PY3 solved (Array/Strring/Math/HashTable/linkedList/...)
+- LeetCode over 300 Algorithm cases in JS/PHP/PY3/SQL/Bash solved 
 - contributor and member of Organization "Doosc" for leetcode solution project.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qiu-IT&layout=compact&hide=css,html)
