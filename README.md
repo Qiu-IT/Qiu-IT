@@ -5,8 +5,10 @@ Welcome to me!!!!! <br>
 It is never too late to learn coding!!!!!<br>
 Github can help us learn each other and maybe we would code together in someday!!! If you like my channel, thanks for your ⭐staring⭐ in advance.✨😉 **BE A Database Engineer**
 
+<!--
 ### About me 👨‍🎓
 Graduated from Germany Uni, working on energy industry branch, during Covid-19, I planned my career for what I love in my life journey. Bingo, it names coding. Although during my last job there was also some PHP work, it is too simple and not every day, it couldn't make me feel I was coding. 
+-->
 
 ### Graduation 📚
 - Bio-Technology at Uni  
