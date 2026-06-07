@@ -1,4 +1,4 @@
-[![Qiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qiu-IT&hide=stars&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
+
 
 ### Hi Friends 👋
 Welcome to me!!!!! <br>
@@ -7,15 +7,17 @@ Github can help us learn each other and maybe we would code together in someday!
 
 <!--
 ### About me 👨‍🎓
-Graduated from Germany Uni, working on energy industry branch, during Covid-19, I planned my career for what I love in my life journey. Bingo, it names coding. Although during my last job there was also some PHP work, it is too simple and not every day, it couldn't make me feel I was coding. 
+Afer my Bio-Technology study at Uni and many years work in solar branche I am focusing on data engineering and cybersecurity!
+Surely a new career is not easy to start, but let's try and go ahead!
 -->
 
 ### Graduation 📚
-- Bio-Technology at Uni  
+- Bio-Technology at Uni
+- Certificated Study of Computer Science at Uni 
 - ---------certification------------
 - freeCodeCamp (Frontend Certificated (html/css/JS))
-- Google IT Automation 
-- Google Data Analysis I <!-- II -->
+- Google IT Automation / Google Data Analysis I <!-- II --> / Google Cybersecurity
+- IBM Data Enginering
 - Computer Science by Codecademy
 <!--
 - Data Base by Codecademy
@@ -49,6 +51,7 @@ Graduated from Germany Uni, working on energy industry branch, during Covid-19, 
 ### Skill 🔨
 - scripting
 - data analysis
+- Wordpres on Docker (Ubuntu)
 <!--
 - web scraping
 - Linux && Amazon Cloud
@@ -61,14 +64,9 @@ Graduated from Germany Uni, working on energy industry branch, during Covid-19, 
 
 ### Reference ✨🏅
 - some Demo Projects of Javasscript30 in codepen or to Android Apps (DrumKit/clock/.......)
-- freeCodeCmap Test Projects 4 (Calculator/Timer/MD Viewer......)
-- LeetCode over 300 Algorithm cases in JS/PHP/PY3/SQL/Bash solved 
-- contributor and member of Organization "Doosc" for leetcode solution project.
+- Admin/Bakcup and cybersecurity management for church website (Wordpress on Docker)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qiu-IT&layout=compact&hide=css,html)
-<!--
-(https://github.com/anuraghazra/github-readme-stats) 
--->
+
 
 
 <!--
